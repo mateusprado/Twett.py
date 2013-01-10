@@ -3,4 +3,4 @@
 
 from services import Services
 
-Services().update(status='Locaweb')
+Services().update(status="Oh man! I'm crazy?")
